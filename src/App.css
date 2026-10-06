@@ -492,10 +492,12 @@ textarea {
   transform: translateY(50%);
   -webkit-transform: translateY(50%);
   bottom: 50%;
+  color: #fff;
 }
 
 .hero-block p {
   margin: 0 0 30px;
+  color: #fff;
 }
 
 .about-block .progress-block {
